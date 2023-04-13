@@ -1,0 +1,25 @@
+{
+  "name": "hb-sancho",
+  "version": "1.0.0",
+  "description": "Happy Birthday to the kindest and most empatic person!",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "sancho"
+  ],
+  "author": "Sanzhar's notes",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
